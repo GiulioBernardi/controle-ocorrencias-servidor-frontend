@@ -1,6 +1,6 @@
-# cos-frontend
+# COS frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Esse repositório irá guardar todo código relacionado a interface do sistema de controle de servidores
 
 ## Recommended IDE Setup
 
@@ -10,19 +10,19 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Quer rodar esse projeto localmente?
 
+### 1.
 ```sh
 npm install
 ```
-
-### Compile and Hot-Reload for Development
+### 2.
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 3.
 
 ```sh
 npm run build
